@@ -4,6 +4,7 @@
   "description": "Create app with initial frontend-like environment.",
   "main": "index.js",
   "scripts": {
+    "lint:md": "markdownlint README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Zmoki/create-f-app/issues"
   },
-  "homepage": "https://github.com/Zmoki/create-f-app#readme"
+  "homepage": "https://github.com/Zmoki/create-f-app#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.3.1"
+  }
 }
