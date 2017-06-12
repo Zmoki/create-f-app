@@ -1,0 +1,19 @@
+{
+  "name": "@zmoki/create-f-app",
+  "version": "1.0.0",
+  "description": "Create app with initial frontend-like environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmoki/create-f-app.git"
+  },
+  "author": "Zarema Khalilova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zmoki/create-f-app/issues"
+  },
+  "homepage": "https://github.com/Zmoki/create-f-app#readme"
+}
