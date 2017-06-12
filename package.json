@@ -1,7 +1,7 @@
 {
-  "name": "@zmoki/create-f-app",
+  "name": "create-zmoki-app",
   "version": "1.0.0",
-  "description": "Create app with initial frontend-like environment.",
+  "description": "Create app with initial environment that I like.",
   "main": "index.js",
   "scripts": {
     "lint:md": "markdownlint README.md",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zmoki/create-f-app.git"
+    "url": "git+https://github.com/Zmoki/create-zmoki-app.git"
   },
   "author": "Zarema Khalilova",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zmoki/create-f-app/issues"
+    "url": "https://github.com/Zmoki/create-zmoki-app/issues"
   },
-  "homepage": "https://github.com/Zmoki/create-f-app#readme",
+  "homepage": "https://github.com/Zmoki/create-zmoki-app#readme",
   "devDependencies": {
     "eslint": "^4.0.0",
     "eslint-config-uploadcare": "^1.1.0",

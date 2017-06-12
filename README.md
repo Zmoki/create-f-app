@@ -1,6 +1,6 @@
-# @zmoki/create-f-app
+# create-zmoki-app
 
-Create app with initial frontend-like environment.
+Create app with initial environment that I like
 
 ## References
 
