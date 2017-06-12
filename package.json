@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Zmoki/create-f-app#readme",
   "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-uploadcare": "^1.1.0",
     "markdownlint-cli": "^0.3.1"
   }
 }
